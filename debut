@@ -1,6 +1,6 @@
 			MINI-PROJET
 
-		Organisation generale du code
+	* Organisation generale du code
 >classe de livre de recette
 >classe qui clique sur un pixel
 >classe qui prepare un plat demandé
@@ -10,6 +10,6 @@
 
 ne pas oublier de cliquer sur lassiette une fois que le client est parti
 
-		responsabilités : qui fait quoi ?
+	* Responsabilités : qui fait quoi ?
 
 ATTENTION utiliser les tests unitaires! Pour eviter les regressions
