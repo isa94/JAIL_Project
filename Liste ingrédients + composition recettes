@@ -1,0 +1,16 @@
+r => riz
+f => fish egg
+n => nori
+sa => slamon
+sh => shrimp
+u => unagi
+sake
+
+1-onigiri		=>r.r.n
+2-california roll	=>r.f.n
+3-gunkan maki		=>r.f.f.n
+4-salmon sushi		=>r.n.sa.sa
+5-shrimp sushi		=>r.n.sh.sh
+6-unagi sushi		=>r.n.u.u
+7-dragon roll		=>r.r.f.n.u.u
+8-combo			=>r.r.f.n.u.sa.sh
