@@ -1,0 +1,15 @@
+																			MINI-PROJET
+
+		Organisation generale du code
+classe de livre de recette
+classe qui clique sur un pixel
+classe qui prepare un plat demandé
+classe qui renvoit les ingredients pour preparer le plat donné en para
+classe qui verifie sil reste assez d'ingredients
+classe qui commande des ingredients (via le tel)
+
+ne pas oublier de cliquer sur lassiette une fois que le client est parti
+
+		responsabilités : qui fait quoi ?
+
+ATTENTION utiliser les tests unitaires! Pour eviter les regressions
